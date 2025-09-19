@@ -4,7 +4,8 @@ This is the organizational charter for the Spatial Data Science Across Languages
 
 ## 1. Mission
 
-[Set out mission of the Organization].
+Spatial data science tools are not limited to a single programming language, with large communities organised around R, Python or Julia. The Spatial Data Science Across Languages Community ("SDSL") provides a space to bridge the communities and establish cross-language interaction between developers and users. 
+SDSL seeks to advance this field by bringing together the communities from the common and emerging programming languages used for data science to discuss interoperability, methodological developments, and shared challenges such as interfacing upstream libraries (including GDAL, GEOS, and PROJ), packaging and distributing software, and managing user and developer communities.
 
 ## 2. Steering Committee
 
