@@ -4,7 +4,7 @@ This is the organizational charter for the Spatial Data Science Across Languages
 
 ## 1. Mission
 
-Spatial data science tools are not limited to a single programming language, with large communities organised around R, Python or Julia. The Spatial Data Science Across Languages Community ("SDSL") provides a space to bridge the communities and establish cross-language interaction between developers and users. 
+Spatial data science tools are not limited to a single programming language, with large communities organised around R, Python or Julia. The Spatial Data Science Across Languages Community ("SDSL") provides a space to bridge the communities and establish cross-language interaction between developers and users.
 SDSL seeks to advance this field by bringing together the communities from the common and emerging programming languages used for data science to discuss interoperability, methodological developments, and shared challenges such as interfacing upstream libraries (including GDAL, GEOS, and PROJ), packaging and distributing software, and managing user and developer communities.
 
 ## 2. Steering Committee
@@ -51,7 +51,7 @@ In order to be eligible to be a Organization project, a project must:
 
 ## 8. Amendments
 
-Amendments to this charter, the [antitrust policy](./ANTITRUST.md), the [trademark policy](./TRADEMARKS.md), or the [code of conduct](./CODE-OF-CONDUCT.md) may only be made with at least a 3/4 affirmative vote of the Steering Committee.
+Amendments to this charter or the [code of conduct](./CODE-OF-CONDUCT.md) may only be made with at least a 3/4 affirmative vote of the Steering Committee.
 
 ---
 Adapted from the MVG-0.1-beta by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
