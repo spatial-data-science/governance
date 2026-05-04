@@ -4,8 +4,11 @@ This document lists the members of the Organization's Steering Committee. Voting
 
 | **NAME** | **Handle** | **Affiliated Organization** |
 | --- | --- | --- |
-| [Steering Committee Member] | [handle ] | [affiliation] |
-|  ... | ... | ... |
+| Yomna Eid | @Yomna-Eid | University of Münster |
+|  Martin Fleischmann | @martinfleis | Charles University |
+|  Claudiu Forgaci | @cforgaci | Delft University of Technology |
+|  Maarten Pronk | @evetion | Delft University of Technology |
+|  Edzer Pebesma | @edzer | University of Münster |
 
 ---
 Adapted from the MVG-0.1-beta by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
